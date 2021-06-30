@@ -6,7 +6,7 @@ Python 을 이용하여 가장 효과적인 프로그래밍을 하는 것이 목
 
 ## 과제
 
-- 3주차 : [word count](https://github.com/mobigen/mobigen-python-study-2021/blob/master/week03/스터디_내용.md#작성-해보기)
+- 3주차 : [word count](./week03/과제.md)
 
 ## 일정
 
