@@ -4,6 +4,10 @@
 
 Python 을 이용하여 가장 효과적인 프로그래밍을 하는 것이 목표입니다.
 
+## 과제
+
+- 3주차 : [word count](https://github.com/mobigen/mobigen-python-study-2021/blob/master/week03/스터디_내용.md#작성-해보기)
+
 ## 일정
 
 - 1주차 : 2021-06-17(목) 19시 ~20시
