@@ -1,4 +1,4 @@
-# mobigen-python-study-20212
+# mobigen-python-study-2021
 
 대표님과 함께하는 python 스터디 그룹
 
