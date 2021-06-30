@@ -1,0 +1,4 @@
+[core]
+        eol = lf
+        quotepath = false
+        precomposeunicode = true
