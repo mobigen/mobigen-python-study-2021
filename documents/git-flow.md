@@ -2,6 +2,8 @@
 
 ## Git 기초
 - [다음](https://github.com/KennethanCeyer/tutorial-git)을 참고하면 깃에 대한 기본적인 컨셉과 사용법을 아실 수 있습니다.
+- git 기초를 배우고 싶으면 [링크](https://opentutorials.org/course/3837) 를 이용해보세요~
+- git 명령어 사용법은 [링크](https://learngitbranching.js.org/?locale=ko) 를 참조해서 연습해보세요~
 
 ## Pull Request(PR)
 - Original 레포지토리(레포)의 경우 일반적으로 직접 수정 권한이 존재하지 않습니다.
