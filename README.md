@@ -48,13 +48,13 @@ Python 을 이용하여 가장 효과적인 프로그래밍을 하는 것이 목
 ## 주차별 공부 & 발표 내용
 
 - 2주차
-  - [Built-in Types](https://docs.python.org/3/library/stdtypes.html)
-  - [Built-in Exceptions](https://docs.python.org/3/library/exceptions.html)
+  - [Built-in Types](https://docs.python.org/3/library/stdtypes.html) - 안교준 책임
 - 3주차
-  - [Text Processing Services](https://docs.python.org/3/library/text.html)
-  - [Binary Data Services](https://docs.python.org/3/library/binary.html)
+  - [Text Processing Services](https://docs.python.org/3/library/text.html) - 장혜선 책임, 최재호 책임
 - 4주차
-  - [Data Types](https://docs.python.org/3/library/datatypes.html)
+  - [Built-in Exceptions](https://docs.python.org/3/library/exceptions.html) - 오나윤 책임
+  - [Binary Data Services](https://docs.python.org/3/library/binary.html) - 최재호 책임
+  - [Data Types](https://docs.python.org/3/library/datatypes.html) - 이주영 책임, 강진희 책임
 - 5주차
   - [Functional Programming Modules](https://docs.python.org/3/library/functional.html)
   - [File and Directory Access](https://docs.python.org/3/library/filesys.html)
