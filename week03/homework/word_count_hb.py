@@ -13,7 +13,7 @@ if __name__ == "__main__" :
     f = open('../wiki_python.txt','r')
 
     data = f.read().replace('\n', ' ')
-    words = re.findall(r'\w+', data)
+    words = re.findall(r'\S+', data)
 
     counts = word_count(words)
     sorted_words = sorted(counts.items(),key=lambda x:x[1],reverse=True)
