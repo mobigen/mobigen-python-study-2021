@@ -67,7 +67,7 @@ type(ls)
 ### List에서 사용 가능한 연산 및 함수
 
 [list_operations.md](./Built-in-Types/list_operations.md)
-- [list operations](./Built-in-Types/list_operations.csv)
+- [가능한 연산 및 함수 종류](./Built-in-Types/list_operations.csv)
 
 ## Tuple
 
