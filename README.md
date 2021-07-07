@@ -49,12 +49,12 @@ Python 을 이용하여 가장 효과적인 프로그래밍을 하는 것이 목
 
 ## 주차별 공부 & 발표 내용
 
-- 2주차 - [발표자료](week02/presentation/README.md)
+- 2주차 - [[발표자료](week02/presentation/README.md)]
   - [Built-in Types](https://docs.python.org/3/library/stdtypes.html) - 안교준 책임
-- 3주차 - [발표자료](week03/presentation/README.md)
+- 3주차 - [[발표자료](week03/presentation/README.md)]
   - [Text Processing Services](https://docs.python.org/3/library/text.html) - 장혜선 책임, 최재호 책임
   - [Binary Data Services](https://docs.python.org/3/library/binary.html) - 최재호 책임
-- 4주차 - [발표자료](week04/presentation/README.md)
+- 4주차 - [[발표자료](week04/presentation/README.md)]
   - [Built-in Exceptions](https://docs.python.org/3/library/exceptions.html) - 오나윤 책임
   - [Binary Data Services](https://docs.python.org/3/library/binary.html) - 최재호 책임
 - 5주차
