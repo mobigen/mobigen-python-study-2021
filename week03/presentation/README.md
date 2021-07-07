@@ -4,14 +4,14 @@
 - Exceptions
     - [Exceptions-pptx](./Exceptions/ExceptionHandling.pptx)
 - Text Processing Services
-    - [re](./re/study_re.md)
-    - [stringprep](./stringprep/study_stringprep.md)
-    - [readline](./readline/study_readline.md)
-    - [rlcompleter](./rlcompleter/study_rlcompleter.md)
+    - [re](./Text_Processing_Services/re/study_re.md)
+    - [stringprep](./Text_Processing_Services/stringprep/study_stringprep.md)
+    - [readline](./Text_Processing_Services/readline/study_readline.md)
+    - [rlcompleter](./Text_Processing_Services/rlcompleter/study_rlcompleter.md)
 - Binary Data Service
-    - [file and binary](./file/study_file.md)
-    - [struct](./struct/study_struct.md)
-    - [codecs](./codecs/study_codecs.md)
+    - [file and binary](./Binary_Data_Services/file/study_file.md)
+    - [struct](./Binary_Data_Services/struct/study_struct.md)
+    - [codecs](./Binary_Data_Services/codecs/study_codecs.md)
 
 ## 참조
 - [정규표현식 사이트](http://regexr.com)
