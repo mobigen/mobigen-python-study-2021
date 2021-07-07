@@ -7,14 +7,16 @@ Python 을 이용하여 가장 효과적인 프로그래밍을 하는 것이 목
 ## 과제
 
 - 3주차 : [word count](./week03/과제.md)
+- 4주차 : [4주차 과제](./week04/과제.md)
 
 ## 일정
 
-- 1주차 : 2021-06-17(목) 19시 ~20시
-- 2주차 : 2021-06-23(수) 19시 ~20시 30분
-- 3주차 : 2021-06-29(화) 19시 ~
-- 4주차 : 2021-07-06(화) 19시 ~
-- 5주차 이후 화요일 예상
+- 1주차 : 2021-06-17(목) 19시 ~ 20시
+- 2주차 : 2021-06-23(수) 19시 ~ 20시 30분
+- 3주차 : 2021-06-29(화) 19시 ~ 21시
+- 4주차 : 2021-07-06(화) 18시 50분 ~ 20시 15분
+- 5주차 : 2021-07-13(화) 19시 ~ 
+- 6주차 이후 화요일 예상
 
 ## 스터디 룰
 
@@ -54,30 +56,31 @@ Python 을 이용하여 가장 효과적인 프로그래밍을 하는 것이 목
 - 4주차
   - [Built-in Exceptions](https://docs.python.org/3/library/exceptions.html) - 오나윤 책임
   - [Binary Data Services](https://docs.python.org/3/library/binary.html) - 최재호 책임
-  - [Data Types](https://docs.python.org/3/library/datatypes.html) - 이주영 책임, 강진희 책임
 - 5주차
+  - [Data Types](https://docs.python.org/3/library/datatypes.html) - 이주영 책임, 강진희 책임
+- 6주차
   - [Functional Programming Modules](https://docs.python.org/3/library/functional.html)
   - [File and Directory Access](https://docs.python.org/3/library/filesys.html)
-- 6주차
+- 7주차
   - [Data Persistence](https://docs.python.org/3/library/persistence.html)
   - [File Formats](https://docs.python.org/3/library/fileformats.html)
   - [Generic Operating System Services](https://docs.python.org/3/library/allos.html)
-- 7주차
-  - [Concurrent Execution](https://docs.python.org/3/library/concurrency.html) -> Thread
 - 8주차
-  - [Concurrent Execution](https://docs.python.org/3/library/concurrency.html) -> Process
+  - [Concurrent Execution](https://docs.python.org/3/library/concurrency.html) -> Thread
 - 9주차
-  - [Networking and Interprocess Communication](https://docs.python.org/3/library/ipc.html)
+  - [Concurrent Execution](https://docs.python.org/3/library/concurrency.html) -> Process
 - 10주차
+  - [Networking and Interprocess Communication](https://docs.python.org/3/library/ipc.html)
+- 11주차
   - [Internet Data Handling](https://docs.python.org/3/library/netdata.html)
   - [Structured Markup Processing Tools](https://docs.python.org/3/library/markup.html)
   - [Internet Protocols and Support](https://docs.python.org/3/library/internet.html)
-- 11주차
+- 12주차
   - [Program Frameworks](https://docs.python.org/3/library/frameworks.html)
   - [Development Tools](https://docs.python.org/3/library/development.html)
   - [Debugging and Profiling](https://docs.python.org/3/library/debug.html)
   - [Software Packaging and Distribution](https://docs.python.org/3/library/distribution.html)
-- 12주차
+- 13주차
   - [Python Runtime Services](https://docs.python.org/3/library/python.html)
   - [Importing Modules](https://docs.python.org/3/library/modules.html)
   - [Python Language Services](https://docs.python.org/3/library/language.html)
