@@ -2,7 +2,7 @@
 
 ## 개요
 - Exceptions
-    - [Exceptions-pptx](./Exceptions/ExceptionHandling.pptx)
+    - [Exceptions-pptx](../../week04/presentation/Exceptions/ExceptionHandling.pptx)
 - Text Processing Services
     - [re](./Text_Processing_Services/re/study_re.md)
     - [stringprep](./Text_Processing_Services/stringprep/study_stringprep.md)
@@ -10,8 +10,6 @@
     - [rlcompleter](./Text_Processing_Services/rlcompleter/study_rlcompleter.md)
 - Binary Data Service
     - [file and binary](./Binary_Data_Services/file/study_file.md)
-    - [struct](./Binary_Data_Services/struct/study_struct.md)
-    - [codecs](./Binary_Data_Services/codecs/study_codecs.md)
 
 ## 참조
 - [정규표현식 사이트](http://regexr.com)
