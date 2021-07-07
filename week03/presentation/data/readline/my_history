@@ -1,0 +1,41 @@
+exit()
+exec(open("/root/python-study/readline/study_readline.py").read())
+print("1")
+2 ** 10
+import math
+math.factorial(6)
+exit()
+exec(open("/root/python-study/readline/study_readline.py").read())
+hello
+print(hello)
+print("hello)
+print("hello")
+exit()
+exec(open("/root/python-study/readline/study_readline2.py").read())
+d
+	
+stop
+exit
+exit()
+exec(open("/root/python-study/readline/study_readline2.py").read())
+exit()
+import rlcompleter
+import readline
+readline.parse_and_bind("tab: complete")
+exit()
+import readline
+exit()
+import readline
+exit
+exit()
+\u06DD
+'\u06DD'
+a = "\u06DD"
+a
+exit()
+import readline
+exit()
+exec(open("/root/python-study/readline/study_readline.py").read())
+1+1
+print("test")
+exit()
