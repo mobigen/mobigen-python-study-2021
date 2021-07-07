@@ -1,6 +1,8 @@
-# python-study
+# 3주차 발표자료
 
 ## 개요
+- Exceptions
+    - [Exceptions-pptx](./Exceptions/ExceptionHandling.pptx)
 - Text Processing Services
     - [re](./re/study_re.md)
     - [stringprep](./stringprep/study_stringprep.md)
