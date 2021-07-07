@@ -1,8 +1,6 @@
 # 3주차 발표자료
 
 ## 개요
-- Exceptions
-    - [Exceptions-pptx](../../week04/presentation/Exceptions/ExceptionHandling.pptx)
 - Text Processing Services
     - [re](./Text_Processing_Services/re/study_re.md)
     - [stringprep](./Text_Processing_Services/stringprep/study_stringprep.md)
