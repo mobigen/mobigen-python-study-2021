@@ -6,8 +6,8 @@ Python 을 이용하여 가장 효과적인 프로그래밍을 하는 것이 목
 
 ## 과제
 
-- 3주차 : [word count](./week03/과제.md)
-- 4주차 : [4주차 과제](./week04/과제.md)
+- 3주차 : [word count, re](./week03/과제.md)
+- 4주차 : [python 질문](./week04/과제.md)
 
 ## 일정
 
