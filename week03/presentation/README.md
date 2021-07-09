@@ -4,7 +4,7 @@
 
 - String 문자열이란? 
     - [String 이란?](./String_문자열/String_문자열이란.md)
-    - [RE란?] (./String_문자열/RE.md)
+    - [RE란?](./String_문자열/RE.md)
 - Text Processing Services
     - [re](./Text_Processing_Services/re/study_re.md)
     - [stringprep](./Text_Processing_Services/stringprep/study_stringprep.md)
