@@ -2,7 +2,7 @@
 
 # Python3 Type hierarchy
 
-![2%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20Built%20in%20type%20def073953f0e4e83811e33eee2f92603/Python_3._The_standard_type_hierarchy.png](2%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20Built%20in%20type%20def073953f0e4e83811e33eee2f92603/Python_3._The_standard_type_hierarchy.png)
+![./Built-in-Types/Python_3._The_standard_type_hierarchy.png](./Built-in-Types/Python_3._The_standard_type_hierarchy.png)
 
 [https://en.wikipedia.org/wiki/Data_type](https://en.wikipedia.org/wiki/Data_type)
 
@@ -58,17 +58,16 @@ type(ls)
 
 ### 리스트 슬라이스
 
-[슬라이스(Slice)](2%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20Built%20in%20type%20def073953f0e4e83811e33eee2f92603/%E1%84%89%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%89%E1%85%B3(Slice)%20baccf44923ee4d309613299e8eaec63f.md)
+[슬라이스(Slice).md](./Built-in-Types/슬라이스(Slice).md)
 
 ### 리스트 정렬(Sort)
 
-[리스트 정렬(Sort)](2%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20Built%20in%20type%20def073953f0e4e83811e33eee2f92603/%E1%84%85%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%A7%E1%86%AF(Sort)%20c356162a807e4218a7a3256df666ae56.md)
+[리스트 정렬(Sort).md](./Built-in-Types/리스트_정렬(Sort).md)
 
 ### List에서 사용 가능한 연산 및 함수
 
-- list operations
-
-    [list operations](2%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20Built%20in%20type%20def073953f0e4e83811e33eee2f92603/list%20operations%20f37ab0606a3e4f1795eaa4aac24247fa.csv)
+[list_operations.md](./Built-in-Types/list_operations.md)
+- [가능한 연산 및 함수 종류](./Built-in-Types/list_operations.csv)
 
 ## Tuple
 
@@ -174,7 +173,7 @@ CSV등에서 데이터를 읽어올 때 csv의 컬럼명과 매치시켜 유용�
 
 - csv에서 데이터 읽어오기 예제
 
-    ![2%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20Built%20in%20type%20def073953f0e4e83811e33eee2f92603/csv.png](2%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20Built%20in%20type%20def073953f0e4e83811e33eee2f92603/csv.png)
+    ![./Built-in-Types/csv.png](./Built-in-Types/csv.png)
 
     ```python
     import collections as coll
@@ -349,7 +348,7 @@ list를 생성하거나 for문 등에서 사용할 수 있습니다.
 
 ## Shallow copy & Deep copy
 
-![2%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20Built%20in%20type%20def073953f0e4e83811e33eee2f92603/jqOlM.gif](2%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20Built%20in%20type%20def073953f0e4e83811e33eee2f92603/jqOlM.gif)
+![jqOlM.gif](./Built-in-Types/jqOlM.gif)
 
 ### 1. 단순 객체 복제
 
