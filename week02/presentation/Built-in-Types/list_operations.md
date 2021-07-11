@@ -1,0 +1,21 @@
+# list_operations
+
+## 항목
+- [Clear.md](./list_operations/Clear.md)
+- [Comparison.md](./list_operations/Comparison.md)
+- [Construction.md](./list_operations/Construction.md)
+- [Containment.md](./list_operations/Containment.md)
+- [Copy.md](./list_operations/Copy.md)
+- [Extend.md](./list_operations/Extend.md)
+- [Iteration.md](./list_operations/Iteration.md)
+- [Length.md](./list_operations/Length.md)
+- [Multiply.md](./list_operations/Multiply.md)
+- [Pop.md](./list_operations/Pop.md)
+- [Remove.md](./list_operations/Remove.md)
+- [Store.md](./list_operations/Store.md)
+- [리스트 뒤집기(Reverse).md](./list_operations/리스트_뒤집기(Reverse).md)
+- [요소 삽입(Insert).md](./list_operations/요소_삽입(Insert).md)
+- [요소 제거(Remove).md](./list_operations/요소_제거(Remove).md)
+- [요소 추가(Append).md](./list_operations/요소_추가(Append).md)
+- [위치 반환.md](./list_operations/위치_반환.md)
+- [특정 인덱스 값 반환.md](./list_operations/특정_인덱스_값_반환.md)
