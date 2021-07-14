@@ -3,10 +3,11 @@ from collections import deque
 
 
 def timer(f):
-    start_time = time.time()
-    f()
-    print(f"{f.__name__}() time --- {time.time() - start_time} seconds ---")
-    return f
+    def _():
+        start_time = time.time()
+        f()
+        print(f"{f.__name__}() time --- {time.time() - start_time} seconds ---")
+    return _
 
 
 @timer
