@@ -11,18 +11,34 @@ def timer(f):
 
 
 @timer
-def test_list():
+def test_list_append():
     a = []
     for i in range(1000000):
         a.append(i)
 
 
 @timer
-def test_deque():
+def test_deque_append():
     a = deque()
     for i in range(1000000):
         a.append(i)
 
 
-test_list()
-test_deque()
+@timer
+def test_list_insert():
+    a = []
+    for i in range(100000):
+        a.insert(0, i)
+
+
+@timer
+def test_deque_insert():
+    a = deque()
+    for i in range(100000):
+        a.insert(0, i)
+
+
+test_list_append()
+test_deque_append()
+test_list_insert()
+test_deque_insert()
