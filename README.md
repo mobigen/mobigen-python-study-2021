@@ -15,8 +15,9 @@ Python 을 이용하여 가장 효과적인 프로그래밍을 하는 것이 목
 - 2주차 : 2021-06-23(수) 19시 ~ 20시 30분
 - 3주차 : 2021-06-29(화) 19시 ~ 21시
 - 4주차 : 2021-07-06(화) 18시 50분 ~ 20시 15분
-- 5주차 : 2021-07-13(화) 19시 ~ 
-- 6주차 이후 화요일 예상
+- 5주차 : 2021-07-13(화) 19시 ~ 21시
+- 6주차 : 2021-07-20(화) 19시 ~ 
+- 7주차 이후 화요일 예상
 
 ## 스터디 룰
 
@@ -49,15 +50,15 @@ Python 을 이용하여 가장 효과적인 프로그래밍을 하는 것이 목
 
 ## 주차별 공부 & 발표 내용
 
-- 2주차 - [[발표자료](week02/presentation/README.md)]
+- 2주차 - [[발표자료](week02/presentation/README.md)], [[스터디 내용 정리](week02/스터디_내용.md)]
   - [Built-in Types](https://docs.python.org/3/library/stdtypes.html) - 안교준 책임
-- 3주차 - [[발표자료](week03/presentation/README.md)]
+- 3주차 - [[발표자료](week03/presentation/README.md)], [[스터디 내용 정리](week03/스터디_내용.md)]
   - [Text Processing Services](https://docs.python.org/3/library/text.html) - 장혜선 책임, 최재호 책임
   - [Binary Data Services](https://docs.python.org/3/library/binary.html) - 최재호 책임
-- 4주차 - [[발표자료](week04/presentation/README.md)]
+- 4주차 - [[발표자료](week04/presentation/README.md)], [[스터디 내용 정리](week04/스터디_내용.md)]
   - [Built-in Exceptions](https://docs.python.org/3/library/exceptions.html) - 오나윤 책임
   - [Binary Data Services](https://docs.python.org/3/library/binary.html) - 최재호 책임
-- 5주차
+- 5주차 - [[발표자료]()], [[스터디 내용 정리](week05/스터디_내용.md)]
   - [Data Types](https://docs.python.org/3/library/datatypes.html) - 이주영 책임, 강진희 책임
 - 6주차
   - [Functional Programming Modules](https://docs.python.org/3/library/functional.html)
