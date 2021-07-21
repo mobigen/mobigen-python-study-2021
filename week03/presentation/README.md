@@ -1,8 +1,11 @@
 # 3주차 발표자료
 
 ## 개요
+
 - Text Processing Services
-    - [re](./Text_Processing_Services/re/study_re.md)
+    - [string](./String_문자열/String_문자열이란.md)
+    - [re - 1](./String_문자열/RE.md)
+    - [re - 2](./Text_Processing_Services/re/study_re.md)
     - [stringprep](./Text_Processing_Services/stringprep/study_stringprep.md)
     - [readline](./Text_Processing_Services/readline/study_readline.md)
     - [rlcompleter](./Text_Processing_Services/rlcompleter/study_rlcompleter.md)
