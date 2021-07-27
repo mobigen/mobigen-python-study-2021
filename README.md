@@ -61,9 +61,10 @@ Python 을 이용하여 가장 효과적인 프로그래밍을 하는 것이 목
 - 5주차 - [[발표자료]()], [[스터디 내용 정리](week05/스터디_내용.md)]
   - [Data Types](https://docs.python.org/3/library/datatypes.html) - 이주영 책임, 강진희 책임
 - 6주차
-  - [Functional Programming Modules](https://docs.python.org/3/library/functional.html)
-  - [File and Directory Access](https://docs.python.org/3/library/filesys.html)
+  - [Functional Programming Modules](https://docs.python.org/3/library/functional.html) - 오준혁 책임
 - 7주차
+  - [Functional Programming Modules](https://docs.python.org/3/library/functional.html) - 오준혁 책임
+  - [File and Directory Access](https://docs.python.org/3/library/filesys.html) - 조해인 책임
   - [Data Persistence](https://docs.python.org/3/library/persistence.html)
   - [File Formats](https://docs.python.org/3/library/fileformats.html)
   - [Generic Operating System Services](https://docs.python.org/3/library/allos.html)
