@@ -58,31 +58,32 @@ Python 을 이용하여 가장 효과적인 프로그래밍을 하는 것이 목
 - 4주차 - [[발표자료](week04/presentation/README.md)], [[스터디 내용 정리](week04/스터디_내용.md)]
   - [Built-in Exceptions](https://docs.python.org/3/library/exceptions.html) - 오나윤 책임
   - [Binary Data Services](https://docs.python.org/3/library/binary.html) - 최재호 책임
-- 5주차 - [[발표자료]()], [[스터디 내용 정리](week05/스터디_내용.md)]
+- 5주차 - [[발표자료](week05/presentation)], [[스터디 내용 정리](week05/스터디_내용.md)]
   - [Data Types](https://docs.python.org/3/library/datatypes.html) - 이주영 책임, 강진희 책임
-- 6주차
-  - [Functional Programming Modules](https://docs.python.org/3/library/functional.html)
-  - [File and Directory Access](https://docs.python.org/3/library/filesys.html)
-- 7주차
-  - [Data Persistence](https://docs.python.org/3/library/persistence.html)
-  - [File Formats](https://docs.python.org/3/library/fileformats.html)
-  - [Generic Operating System Services](https://docs.python.org/3/library/allos.html)
+- 6주차 - [[발표자료](week06/presentation/README.md)], [[스터디 내용 정리](week06/스터디_내용.md)]
+  - [Functional Programming Modules](https://docs.python.org/3/library/functional.html) - 오준혁 책임
+- 7주차 - [[발표자료](week07/presentation/README.md)], [[스터디 내용 정리](week07/스터디_내용.md)]
+  - [Functional Programming Modules](https://docs.python.org/3/library/functional.html) - 오준혁 책임
+  - [File and Directory Access](https://docs.python.org/3/library/filesys.html) - 조해인 책임
 - 8주차
-  - [Concurrent Execution](https://docs.python.org/3/library/concurrency.html) -> Thread
+  - [Data Persistence](https://docs.python.org/3/library/persistence.html) - 한다연 책임
+  - [Generic Operating System Services](https://docs.python.org/3/library/allos.html) - 한다연 책임
 - 9주차
-  - [Concurrent Execution](https://docs.python.org/3/library/concurrency.html) -> Process
+  - [Concurrent Execution](https://docs.python.org/3/library/concurrency.html) -> Thread
 - 10주차
-  - [Networking and Interprocess Communication](https://docs.python.org/3/library/ipc.html)
+  - [Concurrent Execution](https://docs.python.org/3/library/concurrency.html) -> Process
 - 11주차
+  - [Networking and Interprocess Communication](https://docs.python.org/3/library/ipc.html)
+- 12주차
   - [Internet Data Handling](https://docs.python.org/3/library/netdata.html)
   - [Structured Markup Processing Tools](https://docs.python.org/3/library/markup.html)
   - [Internet Protocols and Support](https://docs.python.org/3/library/internet.html)
-- 12주차
+- 13주차
   - [Program Frameworks](https://docs.python.org/3/library/frameworks.html)
   - [Development Tools](https://docs.python.org/3/library/development.html)
   - [Debugging and Profiling](https://docs.python.org/3/library/debug.html)
   - [Software Packaging and Distribution](https://docs.python.org/3/library/distribution.html)
-- 13주차
+- 14주차
   - [Python Runtime Services](https://docs.python.org/3/library/python.html)
   - [Importing Modules](https://docs.python.org/3/library/modules.html)
   - [Python Language Services](https://docs.python.org/3/library/language.html)
