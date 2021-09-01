@@ -27,7 +27,7 @@
 
 ## 메모리구조
 
-<img src="./memory.PNG" width="80%" height="50%">
+<img src="imgs/memory.PNG" width="80%" height="50%">
 
 
 -   스레드는 code영역, data영역 head영역은 공유하고 stack은 영역은 공유하지않습니다.
@@ -187,15 +187,15 @@ if __name__ == "__main__":
 
 ### 예상되는 cpu 사용량(c#, python 순서)
 <div>
-<img src="./expect2.PNG" width="40%" height="20%">
-<img src="./expect.PNG" width="40%" height="20%">
+<img src="imgs/expect2.PNG" width="40%" height="20%">
+<img src="imgs/expect.PNG" width="40%" height="20%">
 </div>
 
 
 ### 실제 cpu 사용량(c#, python 순서)
 <div>
-<img src="./python.PNG" width="40%" height="20%">
-<img src="./dotnet.PNG" width="40%" height="20%">
+<img src="imgs/python.PNG" width="40%" height="20%">
+<img src="imgs/dotnet.PNG" width="40%" height="20%">
 </div>
 
 운영체제는 cpu를 그런식으로 동작시키지 않습니다.
