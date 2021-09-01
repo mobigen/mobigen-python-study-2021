@@ -68,19 +68,21 @@ Python 을 이용하여 가장 효과적인 프로그래밍을 하는 것이 목
 - 8주차 - [[발표자료](week08/presentation/README.md)], [[스터디 내용 정리](week08/스터디_내용.md)]
   - [Data Persistence](https://docs.python.org/3/library/persistence.html) - 한다연 책임
   - [Generic Operating System Services](https://docs.python.org/3/library/allos.html) - 한다연 책임
-- 9주차
+- 9주차 - [[발표자료](week09/presentation/README.md)], [[스터디 내용 정리](week09/스터디_내용.md)]
   - [Concurrent Execution](https://docs.python.org/3/library/concurrency.html) - Thread - 이효빈 책임
     - [threading](https://docs.python.org/3/library/threading.html)
     - [_thread](https://docs.python.org/3/library/_thread.html)
-- 10주차
   - [Concurrent Execution](https://docs.python.org/3/library/concurrency.html) - Multi Processing - 최재호 책임
     - [multiprocessing](https://docs.python.org/3/library/multiprocessing.html)
     - [multiprocessing.shared_memory](https://docs.python.org/3/library/multiprocessing.shared_memory.html)
     - [subprocess](https://docs.python.org/3/library/subprocess.html)
-- 11주차
+- 10주차 - [[발표자료](week10/presentation/README.md)], [[스터디 내용 정리](week10/스터디_내용.md)]
+  - [Concurrent Execution](https://docs.python.org/3/library/concurrency.html) - 이효빈 책임, 최재호 책임
+- 11주차 - [[발표자료](week11/presentation/README.md)], [[스터디 내용 정리](week11/스터디_내용.md)]
   - [Concurrent Execution](https://docs.python.org/3/library/concurrency.html) - Concurrent - 오준혁 책임
     - [The concurrent package](https://docs.python.org/3/library/concurrent.html)
     - [concurrent.futures](https://docs.python.org/3/library/concurrent.futures.html)
+  - class 사용 예제 공유 - 서승환 책임
 - 12주차
   - [Networking and Interprocess Communication](https://docs.python.org/3/library/ipc.html) - 안교준 책임
     - [asyncio](https://docs.python.org/3/library/asyncio.html)
