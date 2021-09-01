@@ -1,3 +1,81 @@
+# 멀티 프로세스 사용법
+
+## 1. 상속하여 사용하기
+```python
+import multiprocessing
+
+class Process(multiprocessing.Process):
+  def __init__(self, id):
+    super(Process, self).__init__()
+    self.id = id
+
+  def run(self):
+    print("I'm the process with id: {}".format(self.id))
+
+if __name__ == '__main__':
+  processes = Process(1), Process(2), Process(3), Process(4)
+  [p.start() for p in processes]
+```
+
+## 2. 멀티프로세스풀 사용하기(블락과 논블락)
+```python
+import multiprocessing
+
+def square(x):
+  return x*x
+
+if __name__ == '__main__':
+  # Pool 객체 초기화
+  # 할당하지 않으면 코어수만큼 할당됩니다.
+  pool = multiprocessing.Pool(processes=4)
+
+  # Pool.map
+  # 결과가 나올때까지 블락
+  inputs = [0, 1, 2, 3, 4]
+  outputs = pool.map(square, inputs)
+
+  print(outputs)
+
+  # Pool.map_async
+  # outputs_async.get을 호출하기 전까지 main 스레드가 블락되지 않습니다.
+  outputs_async = pool.map_async(square, inputs)
+  outputs = outputs_async.get()
+
+  print(outputs)
+```
+
+## 3. queue(IPC)를 이용하여 작업할당
+```python
+import multiprocessing
+
+class MyFancyClass(object):
+
+  def __init__(self, name):
+    self.name = name
+
+  def do_something(self):
+    proc_name = multiprocessing.current_process().name
+    print('%s이 %s 프로세스를 만들었습니다. ' % (self.name, proc_name))
+
+
+def worker(q):
+  obj = q.get()
+  obj.do_something()
+
+
+if __name__ == '__main__':
+  queue = multiprocessing.Queue()
+
+  p = multiprocessing.Process(target=worker, args=(queue,))
+  p.start()
+
+  queue.put(MyFancyClass('1번'))
+
+  queue.close()
+  queue.join_thread()
+  p.join()
+```
+
 # 프로세스간 통신(inter-process communication, ipc)이란
 
 프로세스 사이에 서로 데이터를 주고받는 행위 또는 그에 대한 방법이나 경로를 뜻합니다.
