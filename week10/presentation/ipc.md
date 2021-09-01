@@ -76,6 +76,8 @@ if __name__ == '__main__':
   p.join()
 ```
 
+<br>
+
 # 프로세스간 통신(inter-process communication, ipc)이란
 
 프로세스 사이에 서로 데이터를 주고받는 행위 또는 그에 대한 방법이나 경로를 뜻합니다.
