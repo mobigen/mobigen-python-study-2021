@@ -15,8 +15,9 @@ Python 을 이용하여 가장 효과적인 프로그래밍을 하는 것이 목
 - 2주차 : 2021-06-23(수) 19시 ~ 20시 30분
 - 3주차 : 2021-06-29(화) 19시 ~ 21시
 - 4주차 : 2021-07-06(화) 18시 50분 ~ 20시 15분
-- 5주차 : 2021-07-13(화) 19시 ~ 
-- 6주차 이후 화요일 예상
+- 5주차 : 2021-07-13(화) 19시 ~ 21시
+- 6주차 : 2021-07-20(화) 19시 ~ 
+- 7주차 이후 화요일 예상
 
 ## 스터디 룰
 
@@ -49,39 +50,54 @@ Python 을 이용하여 가장 효과적인 프로그래밍을 하는 것이 목
 
 ## 주차별 공부 & 발표 내용
 
-- 2주차 - [[발표자료](week02/presentation/README.md)]
+- 2주차 - [[발표자료](week02/presentation/README.md)], [[스터디 내용 정리](week02/스터디_내용.md)]
   - [Built-in Types](https://docs.python.org/3/library/stdtypes.html) - 안교준 책임
-- 3주차 - [[발표자료](week03/presentation/README.md)]
+- 3주차 - [[발표자료](week03/presentation/README.md)], [[스터디 내용 정리](week03/스터디_내용.md)]
   - [Text Processing Services](https://docs.python.org/3/library/text.html) - 장혜선 책임, 최재호 책임
   - [Binary Data Services](https://docs.python.org/3/library/binary.html) - 최재호 책임
-- 4주차 - [[발표자료](week04/presentation/README.md)]
+- 4주차 - [[발표자료](week04/presentation/README.md)], [[스터디 내용 정리](week04/스터디_내용.md)]
   - [Built-in Exceptions](https://docs.python.org/3/library/exceptions.html) - 오나윤 책임
   - [Binary Data Services](https://docs.python.org/3/library/binary.html) - 최재호 책임
-- 5주차
+- 5주차 - [[발표자료](week05/presentation)], [[스터디 내용 정리](week05/스터디_내용.md)]
   - [Data Types](https://docs.python.org/3/library/datatypes.html) - 이주영 책임, 강진희 책임
-- 6주차
-  - [Functional Programming Modules](https://docs.python.org/3/library/functional.html)
-  - [File and Directory Access](https://docs.python.org/3/library/filesys.html)
-- 7주차
-  - [Data Persistence](https://docs.python.org/3/library/persistence.html)
-  - [File Formats](https://docs.python.org/3/library/fileformats.html)
-  - [Generic Operating System Services](https://docs.python.org/3/library/allos.html)
-- 8주차
-  - [Concurrent Execution](https://docs.python.org/3/library/concurrency.html) -> Thread
-- 9주차
-  - [Concurrent Execution](https://docs.python.org/3/library/concurrency.html) -> Process
-- 10주차
-  - [Networking and Interprocess Communication](https://docs.python.org/3/library/ipc.html)
-- 11주차
+- 6주차 - [[발표자료](week06/presentation/README.md)], [[스터디 내용 정리](week06/스터디_내용.md)]
+  - [Functional Programming Modules](https://docs.python.org/3/library/functional.html) - 오준혁 책임
+- 7주차 - [[발표자료](week07/presentation/README.md)], [[스터디 내용 정리](week07/스터디_내용.md)]
+  - [Functional Programming Modules](https://docs.python.org/3/library/functional.html) - 오준혁 책임
+  - [File and Directory Access](https://docs.python.org/3/library/filesys.html) - 조해인 책임
+- 8주차 - [[발표자료](week08/presentation/README.md)], [[스터디 내용 정리](week08/스터디_내용.md)]
+  - [Data Persistence](https://docs.python.org/3/library/persistence.html) - 한다연 책임
+  - [Generic Operating System Services](https://docs.python.org/3/library/allos.html) - 한다연 책임
+- 9주차 - [[발표자료](week09/presentation/README.md)], [[스터디 내용 정리](week09/스터디_내용.md)]
+  - [Concurrent Execution](https://docs.python.org/3/library/concurrency.html) - Thread - 이효빈 책임
+    - [threading](https://docs.python.org/3/library/threading.html)
+    - [_thread](https://docs.python.org/3/library/_thread.html)
+  - [Concurrent Execution](https://docs.python.org/3/library/concurrency.html) - Multi Processing - 최재호 책임
+    - [multiprocessing](https://docs.python.org/3/library/multiprocessing.html)
+    - [multiprocessing.shared_memory](https://docs.python.org/3/library/multiprocessing.shared_memory.html)
+    - [subprocess](https://docs.python.org/3/library/subprocess.html)
+- 10주차 - [[발표자료](week10/presentation/README.md)], [[스터디 내용 정리](week10/스터디_내용.md)]
+  - [Concurrent Execution](https://docs.python.org/3/library/concurrency.html) - 이효빈 책임, 최재호 책임
+- 11주차 - [[발표자료](week11/presentation/README.md)], [[스터디 내용 정리](week11/스터디_내용.md)]
+  - [Concurrent Execution](https://docs.python.org/3/library/concurrency.html) - Concurrent - 오준혁 책임
+    - [The concurrent package](https://docs.python.org/3/library/concurrent.html)
+    - [concurrent.futures](https://docs.python.org/3/library/concurrent.futures.html)
+  - class 사용 예제 공유 - 서승환 책임
+- 12주차
+  - [Networking and Interprocess Communication](https://docs.python.org/3/library/ipc.html) - 안교준 책임
+    - [asyncio](https://docs.python.org/3/library/asyncio.html)
+    - [socket](https://docs.python.org/3/library/socket.html)
+    - [select](https://docs.python.org/3/library/select.html)
+- 13주차
   - [Internet Data Handling](https://docs.python.org/3/library/netdata.html)
   - [Structured Markup Processing Tools](https://docs.python.org/3/library/markup.html)
   - [Internet Protocols and Support](https://docs.python.org/3/library/internet.html)
-- 12주차
+- 14주차
   - [Program Frameworks](https://docs.python.org/3/library/frameworks.html)
   - [Development Tools](https://docs.python.org/3/library/development.html)
   - [Debugging and Profiling](https://docs.python.org/3/library/debug.html)
   - [Software Packaging and Distribution](https://docs.python.org/3/library/distribution.html)
-- 13주차
+- 15주차
   - [Python Runtime Services](https://docs.python.org/3/library/python.html)
   - [Importing Modules](https://docs.python.org/3/library/modules.html)
   - [Python Language Services](https://docs.python.org/3/library/language.html)
