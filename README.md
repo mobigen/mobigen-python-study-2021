@@ -90,7 +90,7 @@ Python 을 이용하여 가장 효과적인 프로그래밍을 하는 것이 목
     - [select](https://docs.python.org/3/library/select.html)
 - 13주차
   - 프로그램을 만들어 봅시다.
-  - [설계 링크]()
+  - [설계 링크](week13/설계서.md)
 
 ## git 사용 방법
 
