@@ -3,9 +3,6 @@ from _thread import *
 import pickle
 li = []
 
-#file send
-#https://www.thepythoncode.com/article/send-receive-files-using-sockets-python
-
 def save(con):
     with open("list.txt", "wb") as f:
         send_data = ",".join(li)
