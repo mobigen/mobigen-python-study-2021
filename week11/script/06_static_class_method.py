@@ -15,6 +15,9 @@ print(f"A class's cnt: [{A.cnt}], a instance's cnt : [{a.cnt}]")
 class B(object):
     cnt = 0
 
+    def __init__(self):
+        self.cnt = 0
+
     @classmethod
     def class_method(cls, b: int):
         cls.cnt += b
