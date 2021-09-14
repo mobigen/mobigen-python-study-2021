@@ -5,7 +5,7 @@
 
 어떤 프로그램이 실행중인 상태를 Process 라고 한다. 
 
-<img src ="monitor.png" width=500>
+<img src ="imgs/monitor.png" width=500>
 
 위와 같이 하나의 컴퓨터에서 많은 프로세스 들을 함께 실행시키는 multi-processing 작업을 하기 위해서 동시적(concurrency) 또는 병렬적(Parallelism) 프로그래밍 개념이 사용됩니다.
 
@@ -35,7 +35,7 @@ CPU의 속도가 발열 등의 물리적 제약으로 인해 발전에 한계가
 
 ## 2. 그렇다면, Thread 란?
 
-<img src="thread.png" width=400>
+<img src="imgs/thread.png" width=400>
 
 
 운영체제가 생성하는 작업 단위를 Process라고 한다. 이 Process 안에서 공유되는 메모리를 바탕으로 여러 작업을 또 생성할 수 있는데, 이 때의 작업 단위를 Thread라고 한다. <br>
