@@ -10,4 +10,4 @@
         - [thread_ex5](../script/thread_ex5.py)
         - [thread_ex6](../script/thread_ex6.py)
 - multiprocessing
-    - [process 발표자료](./process.md)
+    - [process 발표자료](./ipc.md)
