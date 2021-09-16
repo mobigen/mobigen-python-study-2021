@@ -40,7 +40,7 @@ class ServerSocket(Thread):
                     sLogger.logger.info(self._dic.get(key))
                     self._con.send(self._dic.get(key).encode("utf-8"))
                 elif command == 'save':
-                    self.save(self._con)
+                    self.save()
                     self._con.send(self.send_data("ok"))
                 else:
                     sLogger.logger.info(str_data)
