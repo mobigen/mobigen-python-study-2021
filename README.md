@@ -88,7 +88,7 @@ Python 을 이용하여 가장 효과적인 프로그래밍을 하는 것이 목
     - [asyncio](https://docs.python.org/3/library/asyncio.html)
     - [socket](https://docs.python.org/3/library/socket.html)
     - [select](https://docs.python.org/3/library/select.html)
-- 13주차
+- 13주차 - [[스터디 내용 정리](week13/스터디_내용.md)]
   - 프로그램을 만들어 봅시다.
   - [설계 링크](week13/설계서.md)
 
